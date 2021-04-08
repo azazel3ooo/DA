@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Daniil/CLionProjects/labs/da/1/counting_sort.hpp
+string
+-
+iostream
+-
+
+/home/Daniil/CLionProjects/labs/da/1/main.cpp
+iostream
+-
+struct.hpp
+/home/Daniil/CLionProjects/labs/da/1/struct.hpp
+vector.hpp
+/home/Daniil/CLionProjects/labs/da/1/vector.hpp
+counting_sort.hpp
+/home/Daniil/CLionProjects/labs/da/1/counting_sort.hpp
+string
+-
+
+/home/Daniil/CLionProjects/labs/da/1/struct.hpp
+string
+-
+
+/home/Daniil/CLionProjects/labs/da/1/vector.hpp
+iostream
+-
+string
+-
+
